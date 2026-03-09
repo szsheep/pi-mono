@@ -35,6 +35,10 @@ Tools for building AI agents and managing LLM deployments.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines and [AGENTS.md](AGENTS.md) for project-specific rules (for both humans and agents).
 
+## Documentation
+
+- [Monorepo Tutorial](docs/monorepo-tutorial.md) - Detailed guide to the repository architecture, package responsibilities, key concepts, and development workflow
+
 ## Development
 
 ```bash
